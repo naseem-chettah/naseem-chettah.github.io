@@ -6,6 +6,14 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Latest on AI and Society</title>
+      <link>/blog/post1/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/post1/</guid>
+      <description>Pope Francis Calls for International AI Treaty Earlier this week, Pope Francis released his annual World Day of Peace message, focused this year on artificial intelligence (AI) and peace. The pope called for the global community to work together to adopt a binding international treaty regulating the development and use of AI.&#xA;Francis acknowledged the impressive achievements of AI, but also highlighted the risks, like increased inequality and loss of jobs.</description>
+    </item>
   </channel>
 </rss>
