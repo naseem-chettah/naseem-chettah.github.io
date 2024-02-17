@@ -6,8 +6,15 @@
     <description>Recent content in technology on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://naseem-chettah.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Major Developments in Cybersecurity and Privacy</title>
+      <link>https://naseem-chettah.github.io/blog/post3/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://naseem-chettah.github.io/blog/post3/</guid>
+      <description>European Court of Human Rights Rules Against Weakening Encryption The European Court of Human Rights (ECHR) issued a landmark ruling that bans governments from forcing companies to weaken end-to-end encryption for mass surveillance purposes. The court held that while authorities can monitor suspects&amp;rsquo; communications without undermining wider security, general encryption backdoors present too great a privacy risk.&#xA;The decision deals a major blow to controversial EU legislation proposing &amp;ldquo;client-side scanning&amp;rdquo; backdoors that would have let police search digital devices for illegal content.</description>
+    </item>
     <item>
       <title>The Grim Reality of Tech Layoffs in 2024</title>
       <link>https://naseem-chettah.github.io/blog/post2/</link>

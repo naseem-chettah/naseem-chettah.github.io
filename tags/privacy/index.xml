@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news on </title>
-    <link>https://naseem-chettah.github.io/categories/news/</link>
-    <description>Recent content in news on </description>
+    <title>privacy on </title>
+    <link>https://naseem-chettah.github.io/tags/privacy/</link>
+    <description>Recent content in privacy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://naseem-chettah.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://naseem-chettah.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Major Developments in Cybersecurity and Privacy</title>
       <link>https://naseem-chettah.github.io/blog/post3/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://naseem-chettah.github.io/blog/post3/</guid>
       <description>European Court of Human Rights Rules Against Weakening Encryption The European Court of Human Rights (ECHR) issued a landmark ruling that bans governments from forcing companies to weaken end-to-end encryption for mass surveillance purposes. The court held that while authorities can monitor suspects&amp;rsquo; communications without undermining wider security, general encryption backdoors present too great a privacy risk.&#xA;The decision deals a major blow to controversial EU legislation proposing &amp;ldquo;client-side scanning&amp;rdquo; backdoors that would have let police search digital devices for illegal content.</description>
-    </item>
-    <item>
-      <title>The Latest on AI and Society</title>
-      <link>https://naseem-chettah.github.io/blog/post1/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://naseem-chettah.github.io/blog/post1/</guid>
-      <description>Pope Francis Calls for International AI Treaty Earlier this week, Pope Francis released his annual World Day of Peace message, focused this year on artificial intelligence (AI) and peace. The pope called for the global community to work together to adopt a binding international treaty regulating the development and use of AI.&#xA;Francis acknowledged the impressive achievements of AI, but also highlighted the risks, like increased inequality and loss of jobs.</description>
     </item>
   </channel>
 </rss>
