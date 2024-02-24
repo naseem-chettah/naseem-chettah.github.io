@@ -6,8 +6,15 @@
     <description>Recent content in news on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://naseem-chettah.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Latest on AI, Privacy, and Security</title>
+      <link>https://naseem-chettah.github.io/blog/post4/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://naseem-chettah.github.io/blog/post4/</guid>
+      <description>Google Open Sources Large Language Model Gemma Google recently open sourced Gemma, a large language model with similarities to the company&amp;rsquo;s Gemini family of models. Gemma comes in two sizes - 2 billion and 7 billion parameters - and is optimized to run efficiently across devices from mobile to cloud TPUs.&#xA;This is a big move by Google to spur collaboration and progress in AI research through an open model. It provides some competition to closed models like OpenAI&amp;rsquo;s GPT-3.</description>
+    </item>
     <item>
       <title>Major Developments in Cybersecurity and Privacy</title>
       <link>https://naseem-chettah.github.io/blog/post3/</link>
