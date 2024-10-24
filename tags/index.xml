@@ -2,297 +2,297 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://ch-naseem.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ch-naseem.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://ch-naseem.com/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Anthropic</title>
-      <link>https://ch-naseem.com/tags/anthropic/</link>
+      <link>http://localhost:1313/tags/anthropic/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/anthropic/</guid>
+      <guid>http://localhost:1313/tags/anthropic/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitcoin</title>
-      <link>https://ch-naseem.com/tags/bitcoin/</link>
+      <link>http://localhost:1313/tags/bitcoin/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/bitcoin/</guid>
+      <guid>http://localhost:1313/tags/bitcoin/</guid>
       <description></description>
     </item>
     <item>
       <title>Character.AI</title>
-      <link>https://ch-naseem.com/tags/character.ai/</link>
+      <link>http://localhost:1313/tags/character.ai/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/character.ai/</guid>
+      <guid>http://localhost:1313/tags/character.ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Claude</title>
-      <link>https://ch-naseem.com/tags/claude/</link>
+      <link>http://localhost:1313/tags/claude/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/claude/</guid>
+      <guid>http://localhost:1313/tags/claude/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer-Control</title>
-      <link>https://ch-naseem.com/tags/computer-control/</link>
+      <link>http://localhost:1313/tags/computer-control/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/computer-control/</guid>
+      <guid>http://localhost:1313/tags/computer-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptocurrency</title>
-      <link>https://ch-naseem.com/tags/cryptocurrency/</link>
+      <link>http://localhost:1313/tags/cryptocurrency/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/cryptocurrency/</guid>
+      <guid>http://localhost:1313/tags/cryptocurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentary</title>
-      <link>https://ch-naseem.com/tags/documentary/</link>
+      <link>http://localhost:1313/tags/documentary/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/documentary/</guid>
+      <guid>http://localhost:1313/tags/documentary/</guid>
       <description></description>
     </item>
     <item>
       <title>Legal</title>
-      <link>https://ch-naseem.com/tags/legal/</link>
+      <link>http://localhost:1313/tags/legal/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/legal/</guid>
+      <guid>http://localhost:1313/tags/legal/</guid>
       <description></description>
     </item>
     <item>
       <title>Online-Safety</title>
-      <link>https://ch-naseem.com/tags/online-safety/</link>
+      <link>http://localhost:1313/tags/online-safety/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/online-safety/</guid>
+      <guid>http://localhost:1313/tags/online-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Satoshi Nakamoto</title>
-      <link>https://ch-naseem.com/tags/satoshi-nakamoto/</link>
+      <link>http://localhost:1313/tags/satoshi-nakamoto/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/satoshi-nakamoto/</guid>
+      <guid>http://localhost:1313/tags/satoshi-nakamoto/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech-News</title>
-      <link>https://ch-naseem.com/tags/tech-news/</link>
+      <link>http://localhost:1313/tags/tech-news/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/tech-news/</guid>
+      <guid>http://localhost:1313/tags/tech-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Autopilot</title>
-      <link>https://ch-naseem.com/tags/autopilot/</link>
+      <link>http://localhost:1313/tags/autopilot/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/autopilot/</guid>
+      <guid>http://localhost:1313/tags/autopilot/</guid>
       <description></description>
     </item>
     <item>
       <title>Drake</title>
-      <link>https://ch-naseem.com/tags/drake/</link>
+      <link>http://localhost:1313/tags/drake/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/drake/</guid>
+      <guid>http://localhost:1313/tags/drake/</guid>
       <description></description>
     </item>
     <item>
       <title>FirstAmendment</title>
-      <link>https://ch-naseem.com/tags/firstamendment/</link>
+      <link>http://localhost:1313/tags/firstamendment/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/firstamendment/</guid>
+      <guid>http://localhost:1313/tags/firstamendment/</guid>
       <description></description>
     </item>
     <item>
       <title>LegalIssues</title>
-      <link>https://ch-naseem.com/tags/legalissues/</link>
+      <link>http://localhost:1313/tags/legalissues/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/legalissues/</guid>
+      <guid>http://localhost:1313/tags/legalissues/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>https://ch-naseem.com/tags/microsoft/</link>
+      <link>http://localhost:1313/tags/microsoft/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/microsoft/</guid>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenSource</title>
-      <link>https://ch-naseem.com/tags/opensource/</link>
+      <link>http://localhost:1313/tags/opensource/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/opensource/</guid>
+      <guid>http://localhost:1313/tags/opensource/</guid>
       <description></description>
     </item>
     <item>
       <title>Tesla</title>
-      <link>https://ch-naseem.com/tags/tesla/</link>
+      <link>http://localhost:1313/tags/tesla/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/tesla/</guid>
+      <guid>http://localhost:1313/tags/tesla/</guid>
       <description></description>
     </item>
     <item>
       <title>TikTok</title>
-      <link>https://ch-naseem.com/tags/tiktok/</link>
+      <link>http://localhost:1313/tags/tiktok/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/tiktok/</guid>
+      <guid>http://localhost:1313/tags/tiktok/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://ch-naseem.com/tags/artificial-intelligence/</link>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Avast</title>
-      <link>https://ch-naseem.com/tags/avast/</link>
+      <link>http://localhost:1313/tags/avast/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/avast/</guid>
+      <guid>http://localhost:1313/tags/avast/</guid>
       <description></description>
     </item>
     <item>
       <title>Consent</title>
-      <link>https://ch-naseem.com/tags/consent/</link>
+      <link>http://localhost:1313/tags/consent/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/consent/</guid>
+      <guid>http://localhost:1313/tags/consent/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://ch-naseem.com/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethics</title>
-      <link>https://ch-naseem.com/tags/ethics/</link>
+      <link>http://localhost:1313/tags/ethics/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/ethics/</guid>
+      <guid>http://localhost:1313/tags/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>FTC</title>
-      <link>https://ch-naseem.com/tags/ftc/</link>
+      <link>http://localhost:1313/tags/ftc/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/ftc/</guid>
+      <guid>http://localhost:1313/tags/ftc/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Models</title>
-      <link>https://ch-naseem.com/tags/language-models/</link>
+      <link>http://localhost:1313/tags/language-models/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/language-models/</guid>
+      <guid>http://localhost:1313/tags/language-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://ch-naseem.com/tags/privacy/</link>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Reddit</title>
-      <link>https://ch-naseem.com/tags/reddit/</link>
+      <link>http://localhost:1313/tags/reddit/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/reddit/</guid>
+      <guid>http://localhost:1313/tags/reddit/</guid>
       <description></description>
     </item>
     <item>
       <title>Regulation</title>
-      <link>https://ch-naseem.com/tags/regulation/</link>
+      <link>http://localhost:1313/tags/regulation/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/regulation/</guid>
+      <guid>http://localhost:1313/tags/regulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://ch-naseem.com/tags/research/</link>
+      <link>http://localhost:1313/tags/research/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/research/</guid>
+      <guid>http://localhost:1313/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://ch-naseem.com/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/tech/</guid>
+      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://ch-naseem.com/tags/cybersecurity/</link>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/cybersecurity/</guid>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Industry Trends</title>
-      <link>https://ch-naseem.com/tags/industry-trends/</link>
+      <link>http://localhost:1313/tags/industry-trends/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/industry-trends/</guid>
+      <guid>http://localhost:1313/tags/industry-trends/</guid>
       <description></description>
     </item>
     <item>
       <title>Job Cuts</title>
-      <link>https://ch-naseem.com/tags/job-cuts/</link>
+      <link>http://localhost:1313/tags/job-cuts/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/job-cuts/</guid>
+      <guid>http://localhost:1313/tags/job-cuts/</guid>
       <description></description>
     </item>
     <item>
       <title>Layoffs</title>
-      <link>https://ch-naseem.com/tags/layoffs/</link>
+      <link>http://localhost:1313/tags/layoffs/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/layoffs/</guid>
+      <guid>http://localhost:1313/tags/layoffs/</guid>
       <description></description>
     </item>
     <item>
       <title>Classics</title>
-      <link>https://ch-naseem.com/tags/classics/</link>
+      <link>http://localhost:1313/tags/classics/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/classics/</guid>
+      <guid>http://localhost:1313/tags/classics/</guid>
       <description></description>
     </item>
     <item>
       <title>Deepfakes</title>
-      <link>https://ch-naseem.com/tags/deepfakes/</link>
+      <link>http://localhost:1313/tags/deepfakes/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/deepfakes/</guid>
+      <guid>http://localhost:1313/tags/deepfakes/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://ch-naseem.com/tags/news/</link>
+      <link>http://localhost:1313/tags/news/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/news/</guid>
+      <guid>http://localhost:1313/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Safety</title>
-      <link>https://ch-naseem.com/tags/safety/</link>
+      <link>http://localhost:1313/tags/safety/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/safety/</guid>
+      <guid>http://localhost:1313/tags/safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Society</title>
-      <link>https://ch-naseem.com/tags/society/</link>
+      <link>http://localhost:1313/tags/society/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ch-naseem.com/tags/society/</guid>
+      <guid>http://localhost:1313/tags/society/</guid>
       <description></description>
     </item>
   </channel>
