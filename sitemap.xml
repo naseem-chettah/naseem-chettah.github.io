@@ -2,199 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ch-naseem.com/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/anthropic/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/anthropic/</loc>
+    <loc>http://localhost:1313/blog/post6/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/blog/post6/</loc>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/tags/bitcoin/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/bitcoin/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/</loc>
+    <loc>http://localhost:1313/tags/character-ai/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/character.ai/</loc>
+    <loc>http://localhost:1313/tags/claude/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/claude/</loc>
+    <loc>http://localhost:1313/tags/computer-control/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/computer-control/</loc>
+    <loc>http://localhost:1313/tags/cryptocurrency/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/cryptocurrency/</loc>
+    <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/cryptocurrency/</loc>
+    <loc>http://localhost:1313/tags/online-safety/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/documentary/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/legal/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/legal-tech/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/online-safety/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/satoshi-nakamoto/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/tech-news/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/technology-news/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/autopilot/</loc>
+    <loc>http://localhost:1313/tags/autonomous-systems/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/drake/</loc>
+    <loc>http://localhost:1313/tags/first-amendment/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/ethics/</loc>
+    <loc>http://localhost:1313/tags/microsoft/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/firstamendment/</loc>
+    <loc>http://localhost:1313/tags/open-source/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/law/</loc>
+    <loc>http://localhost:1313/tags/tesla/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/legalissues/</loc>
+    <loc>http://localhost:1313/tags/tiktok/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/microsoft/</loc>
+    <loc>http://localhost:1313/blog/post5/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/opensource/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/technology/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/tesla/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/tiktok/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/blog/post5/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/ai/</loc>
+    <loc>http://localhost:1313/tags/avast/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/tags/data-protection/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/avast/</loc>
+    <loc>http://localhost:1313/tags/ethics/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/consent/</loc>
+    <loc>http://localhost:1313/tags/ftc/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/data/</loc>
+    <loc>http://localhost:1313/tags/language-models/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/data/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/ethics/</loc>
+    <loc>http://localhost:1313/tags/reddit/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/ftc/</loc>
+    <loc>http://localhost:1313/blog/post4/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/language-models/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/news/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/privacy/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/privacy/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/reddit/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/regulation/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/research/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/tech/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/blog/post4/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/tags/cybersecurity/</loc>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/blog/post3/</loc>
+    <loc>http://localhost:1313/blog/post3/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/business/</loc>
+    <loc>http://localhost:1313/tags/industry-trends/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/industry-trends/</loc>
+    <loc>http://localhost:1313/tags/job-market/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/job-cuts/</loc>
+    <loc>http://localhost:1313/tags/layoffs/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/layoffs/</loc>
+    <loc>http://localhost:1313/tags/tech-industry/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/blog/post2/</loc>
+    <loc>http://localhost:1313/blog/post2/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/classics/</loc>
+    <loc>http://localhost:1313/tags/classics/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/deepfakes/</loc>
+    <loc>http://localhost:1313/tags/deepfakes/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/news/</loc>
+    <loc>http://localhost:1313/tags/regulation/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/safety/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/categories/science/</loc>
+    <loc>http://localhost:1313/tags/safety/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ch-naseem.com/tags/society/</loc>
-    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/categories/society/</loc>
-    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ch-naseem.com/blog/post1/</loc>
+    <loc>http://localhost:1313/blog/post1/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>
